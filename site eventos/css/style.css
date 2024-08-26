@@ -93,13 +93,13 @@
     margin-right: 250px;
     margin-left: 250px;
     margin-bottom: 80px;
-    margin-top: 80px;
+    margin-top: 10px;
     border-radius: 40px;
     padding-top: 30px;
     padding-bottom: 30px;
 }
 .gallery-item {
-    margin: 15px;
+    margin: 20px;
     padding: 10px;
     text-align: center;
     display: none;
